@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-// ignore: import_of_legacy_library_into_null_safe
 import 'package:flutter_icons/flutter_icons.dart';
 import 'package:myzone/auth/login.dart';
 import 'package:myzone/auth/signup.dart';

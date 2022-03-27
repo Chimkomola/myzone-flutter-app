@@ -1,8 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-// ignore: import_of_legacy_library_into_null_safe
 import 'package:flutter_icons/flutter_icons.dart';
-// ignore: import_of_legacy_library_into_null_safe
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:myzone/services/global_methods.dart';
 
